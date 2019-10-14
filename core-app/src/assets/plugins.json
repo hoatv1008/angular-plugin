@@ -1,0 +1,8 @@
+[
+    {
+        "pluginName": "Plugin A",
+        "pluginUrl": "plugin-a",
+        "pluginModule": "PluginAModule",
+        "pluginResourcePath": "assets/plugins/plugin-a.bundle.js"
+    }
+]
